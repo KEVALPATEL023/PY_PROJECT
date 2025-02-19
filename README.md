@@ -1,2 +1,0 @@
-# PY_PROJECT
-PYTHON
